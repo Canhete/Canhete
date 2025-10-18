@@ -33,7 +33,9 @@ Every day my desire to learn new technologies increases. Not only that, but I al
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 -->
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="right">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote"/>
+</p>
 
 ---
 
@@ -108,13 +110,11 @@ Every day my desire to learn new technologies increases. Not only that, but I al
 
 ---
 
-<details>
-  <summary align="left">
+<div align="center">
+  <h2 align="left">
       <img src="https://media.tenor.com/WhiAlABG7WMAAAAi/sans-undertale.gif" alt="Sans Sticker" width="24" title="Human, I remember you've been here before!" align="down-middle">
-      <b>Fun facts</b>
-  </summary>
-  <br />
-
+      Fun facts
+  </h2>
   <p align="center">
     <img src="https://img.shields.io/badge/🇧🇷-Portuguese-darkgreen?style=plastic" alt="Brazilian" title="I'm Brazilian!"/>
     <img src="https://img.shields.io/badge/🇺🇸-English-blue?style=plastic" alt="English" title="I speak English!"/>
@@ -131,7 +131,13 @@ Every day my desire to learn new technologies increases. Not only that, but I al
     <img src="https://img.shields.io/badge/🎮-ULTRAKILL-darkred?style=plastic" alt="Movie Buff" title="My favourite game!"/>
     <img src="https://img.shields.io/badge/🎮-Indie%20Games-yellow?style=plastic" alt="Indie Games" title="I play indie games!"/>
   </p>
-</details>
+</div>
+<!--
+### 🎵Spotify Now Playing>
+Not used
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kdwuwvpil9ehtxw9divh7yxxn&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=kdwuwvpil9ehtxw9divh7yxxn&redirect=true" alt="Spotify Now Playing" height="160" />
+</div>
 
 ###
 
@@ -146,50 +152,43 @@ Every day my desire to learn new technologies increases. Not only that, but I al
   <a href="mailto:raphaelcanheteneto@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?social&logo=gmail&logoColor=white"/>
   </a>
-  <img width="12" />
   <a href="https://wa.me/5562991916049">
     <img src="https://img.shields.io/badge/WhatsApp-green?social&logo=whatsapp&logoColor=white"/>
   </a>
-  <img width="12" />
   <a href="https://t.me/cancreate">
     <img src="https://img.shields.io/badge/Telegram-blue?social&logo=telegram&logoColor=white">
   </a>
-  <img width="12" />
   <a href="https://www.linkedin.com/in/raphael-canhete/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?social&logo=linkedin&logoColor=white"/>
   </a>
-  <img width="12" />
   <!--
   <a href="twitch.tv/canhete">
     <img src="https://img.shields.io/badge/Twitch-purple?social&logo=twitch&logoColor=white"/>
-    <img width="12" />
   </a>
   -->
   <a href="https://discord.com/users/1408476254155444298">
     <img src="https://img.shields.io/badge/Discord%20(Professional)-mediumblue?social&logo=discord&logoColor=white"/>
   </a>
-  <img width="12" />
   <a href="https://discord.com/users/761967432079245353">
     <img src="https://img.shields.io/badge/Discord%20(Personal)-mediumblue?social&logo=discord&logoColor=white"/>
   </a>
-  <img width="12" />
   <a href="https://www.instagram.com/ehcanhete/">
     <img src="https://img.shields.io/badge/Instagram-hotpink?social&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://spotify.com/user/kdwuwvpil9ehtxw9divh7yxxn">
+    <img src="https://img.shields.io/badge/Spotify-green?social&logo=spotify&logoColor=white"/>
+  </a>
   <!--
-  <img width="12" />
   <a href="https://www.facebook.com/canhete">
     <img src="https://img.shields.io/badge/Facebook-darkblue?social&logo=facebook&logoColor=white"/>
   </a>
   -->
   <!--
-  <img width="12" />
   <a href="https://www.bluesky.com/canhete">
     <img src="https://img.shields.io/badge/Bluesky-lightblue?social&logo=bluesky&logoColor=white"/>
   </a>
   -->
   <!-- To add in the future
-  <img width="12" />
   <a href="https://canhete.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-black?social&logo=itch.io&logoColor=white"/>
   </a>
@@ -199,12 +198,8 @@ Every day my desire to learn new technologies increases. Not only that, but I al
 <br />
 
 <p align="center">
-  <img src="https://media.tenor.com/4KSPQvElQh8AAAAi/the-binding-of-isaac-blue-baby.gif" alt="Blue Baby Dancing" width="128" title="Thank you for visiting!" align="down-middle">
+  <img src="https://media.tenor.com/4KSPQvElQh8AAAAi/the-binding-of-isaac-blue-baby.gif" alt="Blue Baby Dancing" width="64" title="Thank you for visiting!" align="down-middle">
 </p>
-
-<!-- You really made it to the end! 
-Congrats! You have found an Easter Egg! -->
-<!-- Send me a message saying you found it! :) -->
 
 <!-- Not used sections, to be ignored
 ### ✍️Random Dev Quote
@@ -217,3 +212,9 @@ Congrats! You have found an Easter Egg! -->
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Canhete&icon=2&color=12)](https://visitcount.itsvg.in)
+
+
+
+<!-- You really made it to the end! 
+Congrats! You have found an Easter Egg! -->
+<!-- Send me a message saying you found it! :) -->
