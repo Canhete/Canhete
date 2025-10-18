@@ -132,12 +132,14 @@ Every day my desire to learn new technologies increases. Not only that, but I al
     <img src="https://img.shields.io/badge/🎮-Indie%20Games-yellow?style=plastic" alt="Indie Games" title="I play indie games!"/>
   </p>
 </div>
+
 <!--
 ### 🎵Spotify Now Playing>
 Not used
 <div align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kdwuwvpil9ehtxw9divh7yxxn&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=kdwuwvpil9ehtxw9divh7yxxn&redirect=true" alt="Spotify Now Playing" height="160" />
 </div>
+-->
 
 ###
 
