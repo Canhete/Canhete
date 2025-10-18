@@ -47,9 +47,9 @@ Every day my desire to learn new technologies increases. Not only that, but I al
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Canhete&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Canhete's GitHub Stats" height="150"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canhete&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Canhete's GitHub Stats" height="150"  />
-  <img src="https://streak-stats.demolab.com?user=Canhete&theme=midnight-purple&hide_border=true" alt="Canhete's GitHub Stats" height="150"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Canhete&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="Canhete's GitHub Stats" height="200"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canhete&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Canhete's GitHub Stats" height="200"  />
+  <img src="https://streak-stats.demolab.com?user=Canhete&theme=midnight-purple&hide_border=true" alt="Canhete's GitHub Stats" height="200"  />
   <h3>🏆 GitHub Trophies</h3>
   <img src=https://github-trophies.vercel.app/?username=Canhete&theme=discord&no-frame=true&no-bg=true&margin-w=4 alt="Canhete's GitHub Trophies" height="150"  />
   <br />
@@ -89,7 +89,6 @@ Every day my desire to learn new technologies increases. Not only that, but I al
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo" title="Markdown"/>
 </div>
-<br />
 
 ###
 
