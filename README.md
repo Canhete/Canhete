@@ -72,7 +72,7 @@ Every day my desire to learn new technologies increases. Not only that, but I al
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="TypeScript"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React"/>
-    <img width="12"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" title="HTML5"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" title="CSS3"/>
@@ -150,47 +150,47 @@ Not used
 </h2>
 
 <p align="center">
-  <a href="mailto:raphaelcanheteneto@gmail.com">
+  <a href="mailto:raphaelcanheteneto@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?social&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/5562991916049">
+  <a href="https://wa.me/5562991916049" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-green?social&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://t.me/cancreate">
+  <a href="https://t.me/cancreate" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?social&logo=telegram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/raphael-canhete/">
+  <a href="https://www.linkedin.com/in/raphael-canhete/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?social&logo=linkedin&logoColor=white"/>
   </a>
   <!--
-  <a href="twitch.tv/canhete">
+  <a href="twitch.tv/canhete" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-purple?social&logo=twitch&logoColor=white"/>
   </a>
   -->
-  <a href="https://discord.com/users/1408476254155444298">
+  <a href="https://discord.com/users/1408476254155444298" target="_blank">
     <img src="https://img.shields.io/badge/Discord%20(Professional)-mediumblue?social&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/761967432079245353">
+  <a href="https://discord.com/users/761967432079245353" target="_blank">
     <img src="https://img.shields.io/badge/Discord%20(Personal)-mediumblue?social&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/ehcanhete/">
+  <a href="https://www.instagram.com/ehcanhete/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-hotpink?social&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://spotify.com/user/kdwuwvpil9ehtxw9divh7yxxn">
+  <a href="https://spotify.com/user/kdwuwvpil9ehtxw9divh7yxxn" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-green?social&logo=spotify&logoColor=white"/>
   </a>
   <!--
-  <a href="https://www.facebook.com/canhete">
+  <a href="https://www.facebook.com/canhete" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-darkblue?social&logo=facebook&logoColor=white"/>
   </a>
   -->
   <!--
-  <a href="https://www.bluesky.com/canhete">
+  <a href="https://www.bluesky.com/canhete" target="_blank">
     <img src="https://img.shields.io/badge/Bluesky-lightblue?social&logo=bluesky&logoColor=white"/>
   </a>
   -->
   <!-- To add in the future
-  <a href="https://canhete.itch.io/">
+  <a href="https://canhete.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-black?social&logo=itch.io&logoColor=white"/>
   </a>
   -->
@@ -199,14 +199,12 @@ Not used
 <br />
 
 <p align="center">
-  <a href="https://open.spotify.com/intl-pt/track/5UWJxql2C2VNLAusOQRjt1">
+  <a href="https://open.spotify.com/intl-pt/track/5UWJxql2C2VNLAusOQRjt1" target="_blank">
     <img src="https://media.tenor.com/4KSPQvElQh8AAAAi/the-binding-of-isaac-blue-baby.gif" alt="Blue Baby Dancing" width="64" title="Thank you for visiting!" align="down-middle">
   </a>
 </p>
 
 <!-- Not used sections, to be ignored
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
